@@ -1,0 +1,15 @@
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfo.cs
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\bin\Debug\net6.0\DIO.Bank.exe
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\bin\Debug\net6.0\DIO.Bank.deps.json
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\bin\Debug\net6.0\DIO.Bank.runtimeconfig.json
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\bin\Debug\net6.0\DIO.Bank.dll
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\bin\Debug\net6.0\DIO.Bank.pdb
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.dll
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.pdb
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\DIO.Bank.genruntimeconfig.cache
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\obj\Debug\net6.0\ref\DIO.Bank.dll
+C:\devJean\Cursos\DIO_.NET_FUNDAMENTALS\APP.NET_Bank\DIO.Bank\bin\Debug\net6.0\ref\DIO.Bank.dll
